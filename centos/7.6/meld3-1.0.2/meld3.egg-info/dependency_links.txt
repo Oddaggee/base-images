@@ -1,1 +1,1 @@
-
+$BINDIR/supervisorctl STOP ALL PROCESS
